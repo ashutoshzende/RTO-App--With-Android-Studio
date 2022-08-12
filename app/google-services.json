@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209574974080",
+    "project_id": "rto-app-10bb5",
+    "storage_bucket": "rto-app-10bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209574974080:android:f2ae57ac65c88c90498c65",
+        "android_client_info": {
+          "package_name": "com.example.myloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209574974080-pr0ujm6s47v0sslfqhbhsaf75oi936r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJee6aV3tg3u_ESj_Mp2c8NTEyfDmPaNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209574974080-pr0ujm6s47v0sslfqhbhsaf75oi936r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

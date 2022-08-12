@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">RTO App</string>
+    <!--</resources>-->
+
+    <!--<resources>-->
+    <!--<string name="app_name">References</string>-->
+    <string name="Main">Link for the RTO Information:<a href="https://sarathi.parivahan.gov.in/sarathiservice/sarathiHomePublic.do"> https://sarathi.parivahan.gov.in/sarathiservice/sarathiHomePublic.do</a></string>
+    <string name="NewLL">How to Apply for Driving Licence:<a href="https://www.cars24.com/blog/driving-licence-online-apply-in-maharashtra-mh-dl/"> https://www.cars24.com/blog/driving-licence-online-apply-in-maharashtra-mh-dl/</a></string>
+    <string name="ApDL">Apply for Driving License:<a href="https://sarathi.parivahan.gov.in/sarathiservice/newDLDet.do"> https://sarathi.parivahan.gov.in/sarathiservice/newDLDet.do"</a></string>
+    <string name="DLRenew">Maharashtra Transport Session:<a href="https://transport.maharashtra.gov.in/1035/Home">https://transport.maharashtra.gov.in/1035/Home</a></string>
+    <string name="DupDL">Apply for Duplicate Driving License:<a href="https://onlineservicess.in/duplicate-driving-licence-in-maharashtra/"> https://onlineservicess.in/duplicate-driving-licence-in-maharashtra/</a></string>
+    <string name="Emai1"><a href="ashuuzende9403@gmail.com"> ashuuzende9403@gmail.com</a></string>
+    <string name="Emai2"><a href="shardulshinde7@gmail.com"> shardulshinde7@gmail.com</a></string>
+
+
+
+    <!--    <string name="app_name">quizTutorial</string>-->
+
+    <string name="score">Score 0/15</string>
+    <string name="question_number">1/15 Question</string>
+
+    <string name="question_1">Where are allowed to park?</string>
+    <string name="question1_A">On a Footpath</string>
+    <string name="question1_B">In front Of Hospital</string>
+    <string name="question1_C">In Front Of School</string>
+    <string name="question1_D">Neither of These three alternatives</string>
+    <string name="answer_1">Neither of These three alternatives</string>
+
+
+    <string name="question_2">Can we use high beam in foggy conditions</string>
+    <string name="question_2A">Is good because you can see more</string>
+    <string name="question_2B">Is bad because it reflects back and can dazzle</string>
+    <string name="question_2C">Make sure others can see you</string>
+    <string name="question_2D">None Of the above</string>
+    <string name="answer_2">Is bad because it reflects back and can dazzle</string>
+
+
+    <string name="question_3"> You must intimate your changed address on driving license to R.T.O. in
+</string>
+    <string name="question_3A"> 10 days </string>
+    <string name="question_3B">14 days </string>
+    <string name="question_3C"> 21 days </string>
+    <string name="question_3D"> 30 days</string>
+    <string name="answer_3"> 14 days</string>
+
+    <string name="question_4">If you meet with an accident while driving a vehicle, without a valid driving license, the insurance company?</string>
+    <string name="question_4A">Compensate partly for damages</string>
+    <string name="question_4B">Compensate fully for damages</string>
+    <string name="question_4C">Not compensate for damages</string>
+    <string name="question_4D">None Of the Above</string>
+    <string name="answer_4">Not compensate for damages</string>
+
+    <string name="question_5">PUCC stands for ?</string>
+    <string name="question_5A"> Primary unlicensed car and carrier</string>
+    <string name="question_5B">Pollution under control certificate</string>
+    <string name="question_5C">Pollution uncontrolled cancellation certificate</string>
+    <string name="question_5D">Pollution uncontrolled cancellation center</string>
+    <string name="answer_5">Pollution under control certificate</string>
+
+    <string name="question_6">In the event of an accident what phone number willyou dial to get assistance from the police? ?</string>
+    <string name="question_6A"> 102</string>
+    <string name="question_6B">100</string>
+    <string name="question_6C">105</string>
+    <string name="question_6D">110 </string>
+    <string name="answer_6">100</string>
+
+    <string name="question_7">Which of the following should not be kept in your vehicle? ?</string>
+    <string name="question_7A">A first aid kit </string>
+    <string name="question_7B">Inflammable material</string>
+    <string name="question_7C">Tool kit</string>
+    <string name="question_7D">Stephnony</string>
+    <string name="answer_7">Inflammable material</string>
+
+    <string name="question_8">What is “PSL” in turning a vehicle?</string>
+    <string name="question_8A"> Position Signal Look</string>
+    <string name="question_8B">Position Speed Look</string>
+    <string name="question_8C">Park Signal Look</string>
+    <string name="question_8D">Position Speed Lock</string>
+    <string name="answer_8">Position Speed Look</string>
+
+
+    <string name="question_9">Provision regarding duty of driver in case of accident And injury to a person is in section?</string>
+    <string name="question_9A"> 130 of M.V. Act 1</string>
+    <string name="question_9B">131 of M.V. Act</string>
+    <string name="question_9C">132 of M.V.Act</string>
+    <string name="question_9D">134 of M.V. Act</string>
+    <string name="answer_9">134 of M.V. Act</string>
+
+    <string name="question_10">While turning left you will keep your  vehicle in?</string>
+    <string name="question_10A"> Left lane</string>
+    <string name="question_10B">Right lane</string>
+    <string name="question_10C">Middle lane lane</string>
+    <string name="question_10D">None of the above</string>
+    <string name="answer_10">Left lane</string>
+
+    <string name="question_11">While driving on multilane road, I will drive through lane and change it?</string>
+    <string name="question_11A"> By giving proper signal</string>
+    <string name="question_11B">Drive at brisk speed </string>
+    <string name="question_11C">Drive slowly</string>
+    <string name="question_11D">Drive fastly</string>
+    <string name="answer_11">By giving proper signal</string>
+
+    <string name="question_12">To drive a light motor vehicle your minimum age should be?</string>
+    <string name="question_12A"> 16 years </string>
+    <string name="question_12B">18 years </string>
+    <string name="question_12C">19 years </string>
+    <string name="question_12D">21 years </string>
+    <string name="answer_12">18 years </string>
+
+    <string name="question_13">Maximum speed limit specified in Motor Vehicles Act for articulated vehicles?</string>
+    <string name="question_13A">50 Kmph</string>
+    <string name="question_13B">40 Kmph </string>
+    <string name="question_13C">60 Kmph </string>
+    <string name="question_13D">70 Kmph </string>
+    <string name="answer_13">50 Kmph</string>
+
+    <string name="question_14">Check tyre pressure?</string>
+    <string name="question_14A"> While tyres are hot </string>
+    <string name="question_14B">While tyres are cold </string>
+    <string name="question_14C">Any time</string>
+    <string name="question_14D">none</string>
+    <string name="answer_14">While tyres are cold </string>
+
+    <string name="question_15">Changing the lane on multilane road is?</string>
+    <string name="question_15A"> Prohibited</string>
+    <string name="question_15B">Permitted </string>
+    <string name="question_15C">Not advised to change</string>
+    <string name="question_15D">None of the above</string>
+    <string name="answer_15">Permitted </string>
+
+
+    <string name="selctedoption">SelctedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+</resources>

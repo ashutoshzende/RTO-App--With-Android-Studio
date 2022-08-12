@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91935/OneDrive/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_about_us_page.xml" value="0.1578125" />
+        <entry key="..\:/Users/91935/OneDrive/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_five.xml" value="0.1578125" />
+        <entry key="..\:/Users/91935/OneDrive/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_six.xml" value="0.1578125" />
+        <entry key="..\:/Users/91935/OneDrive/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/login.xml" value="0.1578125" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/drawable-v24/circle.xml" value="0.1135" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/drawable-v24/circle_border.xml" value="0.1135" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/drawable-v24/grad.xml" value="0.1135" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1135" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/drawable-v24/ic_settings.xml" value="0.1135" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_about_us_page.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_contact_us_page.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_five.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_four.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_hindipdf.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_one.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_pdfmarathi.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_rate_us_page.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_six.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_three.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_user_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/login.xml" value="0.1" />
+        <entry key="..\:/Users/Ashutosh/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/register.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/Desktop/myloginApp (4)/myloginApp/app/src/main/res/layout/activity_about_us_page.xml" value="0.14130434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

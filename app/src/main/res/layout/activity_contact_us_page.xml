@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ContactUsPage">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"/>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/about"/>
+
+    <TextView
+        android:layout_width="194dp"
+        android:layout_height="42dp"
+        android:text="For Technical Support"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="240dp"
+        android:layout_height="74dp"
+        android:layout_gravity="center"
+        android:text="@string/Emai1"
+        android:textColor="@color/purple_200"/>
+
+    <TextView
+        android:layout_width="194dp"
+        android:layout_height="42dp"
+        android:text="For Anything Else"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="240dp"
+        android:layout_height="74dp"
+        android:layout_gravity="center"
+        android:text="@string/Emai2"
+        android:textColor="@color/purple_200"/>
+
+
+
+
+</LinearLayout>
